@@ -37,7 +37,7 @@ div.ojbk {
 	<h1 class="h1">客官你里边请~~~</h1>
 	<div class="ok">
   	<img src="E:/计概/GitHub/54188-gif.github.io/沉眠者.jpg" width="187.5" height="259">
-  	<img src="E:/计概/GitHub/54188-gif.github.io/奶制品.jpg" width="187.5" height="259">
+  	<img src="https://github.com/54188-gif/54188-gif.github.io/blob/main/%E5%A5%B6%E5%88%B6%E5%93%81.jpg" width="187.5" height="259">
   	<p>
 	    王道宸;
 	    40.30.3002于生;
