@@ -26,14 +26,18 @@ div.ok{
 img {
  float: left;
 }
+div.ojbk {
+ clear: both;
+} 
 </style>
 	<meta charset="utf-8">
 	<title>王道宸</title>
 </head>
 <body>
 	<h1 class="h1">客官你里边请~~~</h1>
+	<div class="ok">
   	<img src="E:/计概/GitHub/54188-gif.github.io/沉眠者.jpg" width="187.5" height="259">
-  	<img src="E：/ - / github /54188-gif.github.io/奶制品.jpg" width="187.5" height="259">
+  	<img src="E:/计概/GitHub/54188-gif.github.io/奶制品.jpg" width="187.5" height="259">
   	<p>
 	    王道宸;
 	    40.30.3002于生;
@@ -42,6 +46,9 @@ img {
 	    一边温和，一边暴躁（我就是新时代茅盾文学带师ヽ(ﾟ∀ﾟ*)ﾉ━━━ｩ♪）;
 	    注意！处于精神集中状态的时不能被打扰，否则...(来自某何姓女士的温馨提示  (ノへ￣、))
 	</p>
+	<div class=“ojbk”></div>
+	</div>
+	<div>
   <h2>看这边，看这边！(开始整活(～￣▽￣)～doge)</h2>
 <img src="E:/计概/GitHub/54188-gif.github.io/整活.jfif" width="250" height="250">
 <button onclick="myFunction()">马上打钱</button>
@@ -56,5 +63,6 @@ function myFunction(){
 	}
 }
 </script>
+</div>
 </body>
 </html
